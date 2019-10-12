@@ -1,0 +1,3 @@
+import getPrice
+
+getPrice.writePrice()
